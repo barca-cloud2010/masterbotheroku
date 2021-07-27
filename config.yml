@@ -21,7 +21,7 @@ challenge:                   # incoming challenges
     - chess960
     - crazyhouse
     - horde
-    - kingOfTheHill
+#    - kingOfTheHill
     - racingKings
     - threeCheck
   time_controls:             # time controls to accept
